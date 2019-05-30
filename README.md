@@ -1,4 +1,4 @@
 "# airbnb_seattle" 
 - EDA
-- data cleanign
+- data cleaning
 - ML different methods
